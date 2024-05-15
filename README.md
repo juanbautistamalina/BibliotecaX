@@ -17,6 +17,6 @@ Proyecto en Java y Spring Boot para buscar libros y obtener sus datos utilizando
 2. Abrir en un editor de código la clase BibliotecaXApplication.java y ejecutar
 
 
-![image](https://imgur.com/a/W2Yw9t3)
+![image](https://i.imgur.com/yw7PhsI.png)
 
  
